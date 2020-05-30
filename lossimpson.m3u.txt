@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF: -1, tvg-logo = "https://i.imgur.com/O9amrzQ.jpg", mx:24/7 LOS SIMPSON
+http://tvpremiumhd.club/lista-gratuita/213011/tv/live.php?id=2278
